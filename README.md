@@ -15,3 +15,7 @@
 
 ## Description
 LeetCode solutions in Python, Rust, Uiua, Swift.
+
+## TO-DOs
+- [ ] Figure out files vs. directories
+- [ ] Figure out naming. `1-two-sum`, `two-sum`, `00001-two-sum`, etc.
